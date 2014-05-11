@@ -1,0 +1,23 @@
+- page: main
+  layout: base
+  title: Главная
+
+- page: catalogue
+  layout: base
+  title: Каталог
+
+- page: buy
+  layout: base
+  title: Как купить
+
+- page: shipment
+  layout: base
+  title: Доставка и установка
+
+- page: payment
+  layout: base
+  title: Оплата
+
+- page: contacts
+  layout: base
+  title: Контакты

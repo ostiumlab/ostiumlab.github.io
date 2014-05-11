@@ -1,0 +1,17 @@
+name: Ostium
+title: Магазин Ostium
+org: Ostium
+
+profiles:
+  development:
+    base_url: http://localhost:4242
+    minify: false
+    disqus_developer: true
+    dev: true
+    deploy:
+      dummy:
+  production:
+    minify: true
+    base_url: http://ostiumlab.github.com/github_pages
+    deploy:
+      host: github_pages
