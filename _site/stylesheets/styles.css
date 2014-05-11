@@ -262,8 +262,8 @@ td, th {
     border: 1px solid #ddd !important; } }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url("http://localhost:4242/http://localhost:4242/fonts/bootstrap/glyphicons-halflings-regular.eot");
-  src: url("http://localhost:4242/http://localhost:4242/fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("http://localhost:4242/http://localhost:4242/fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("http://localhost:4242/http://localhost:4242/fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("http://localhost:4242/http://localhost:4242/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg"); }
+  src: url("http://ostiumlab.github.io/http://ostiumlab.github.io/fonts/bootstrap/glyphicons-halflings-regular.eot");
+  src: url("http://ostiumlab.github.io/http://ostiumlab.github.io/fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("http://ostiumlab.github.io/http://ostiumlab.github.io/fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("http://ostiumlab.github.io/http://ostiumlab.github.io/fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("http://ostiumlab.github.io/http://ostiumlab.github.io/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg"); }
 
 /* line 25, /home/alexiss/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets/bootstrap/_glyphicons.scss */
 .glyphicon {
