@@ -3,6 +3,12 @@ title: Магазин Ostium
 org: Ostium
 
 profiles:
+  production:
+    minify: true
+    base_url: http://ostiumlab.github.io
+    deploy:
+      host: github_pages
+      branch: master
   development:
     base_url: http://localhost:4242
     minify: false
@@ -10,9 +16,4 @@ profiles:
     dev: true
     deploy:
       dummy:
-  production:
-    minify: true
-    base_url: http://ostiumlab.github.io
-    deploy:
-      host: github_pages
-      branch: master
+
